@@ -136,7 +136,11 @@ echo "<br>";
 echo $comment;
 
 
-
+echo "Errors: ";
+echo $nameErr;
+echo "<br>";
+echo $emailErr;
+echo "<br>"
 ?>
 
 <?php
