@@ -1,7 +1,7 @@
 <?php
 	$name= $email= $city= $gender= $comment= "";
 	$nameErr = $emailErr = $genderErr = $cityErr = "";
-	
+	$flag= 0;
 	
 	
 		if ($_SERVER["REQUEST_METHOD"] == "POST") {
@@ -135,6 +135,9 @@ echo $city;
 echo "<br>";
 echo $comment;
 
+echo "Errors: ";
+echo $nameErr;
+echo $emailErr;
 
 ?>
 
