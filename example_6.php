@@ -135,9 +135,7 @@ echo $city;
 echo "<br>";
 echo $comment;
 
-echo "Errors: ";
-echo $nameErr;
-echo $emailErr;
+
 
 ?>
 
