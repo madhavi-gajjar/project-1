@@ -1,7 +1,8 @@
 <?php 
 	echo "Hello world";
 	echo "<br>";
-	echo "This is my file";
+	echo "<br>";
+	echo "I printed something";
 	echo "<br>";
 	
 ?>
