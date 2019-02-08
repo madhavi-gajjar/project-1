@@ -16,6 +16,7 @@
 		<nav class="navbar">
 			<ul class="navbar-nav">
 				<li class="nav-item">About page</li>
+				<li class="nav-item">Login</li>
 			</ul>
 		</nav>
 		<p>Deserts</p>
